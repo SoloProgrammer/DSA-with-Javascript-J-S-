@@ -1,3 +1,5 @@
+// PROBLEM : How do you print the first non-repeated character from a string?
+
 let str = "abc kdab       dcskuugis";
 let str_arr = str.replace(/ /g,"").split('');
 
